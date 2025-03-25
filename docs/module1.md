@@ -26,3 +26,10 @@ GitHub Pages is a free web hosting service for static sites. Steps to set up a G
 3. Select a publishing source (main branch or `docs/` folder).
 4. Use Markdown (`.md`) files or HTML/CSS for content.
 5. Access the published site at `https://adrianmunene.github.io/adrian_munene/`.
+
+## Takeaway
+Understanding Git, GitHub is essential for version control, project management, and collaboration while GitHub Pages enables of ease of sharing of documentation created in either Markdown or HTML and CSS. 
+
+Git allows efficient tracking of code changes, while GitHub enables collaboration among developers. 
+
+GitHub Pages serves as a platform for publishing project documentation or static websites, making it easier to share and maintain projects.
