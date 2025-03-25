@@ -1,4 +1,3 @@
 title: "Gearbox Academy Course"
 markdown: GFM
-remote-theme: just-the-docs/just-the-docs
-#theme: jekyll-theme-tactile
+theme: jekyll-theme-tactile
