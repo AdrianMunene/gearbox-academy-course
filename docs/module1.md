@@ -1,3 +1,6 @@
+---
+title: Project Management and Documentation
+---
 [Home](index.md)
 
 # Module 1: Project Management and Documentation

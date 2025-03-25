@@ -1,3 +1,6 @@
+---
+title: Project Management and Documentation
+---
 [Home](index.md)
 
 # Module 2: Introduction to Embedded C
