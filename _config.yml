@@ -1,0 +1,7 @@
+#remote_theme: just-the-docs/just-the-docs
+#plugins:
+#  - jekyll-remote-theme
+
+theme: jekyll-theme-minimal
+title: "Gearbox Academy Course"
+nav_order: 1
