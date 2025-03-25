@@ -4,8 +4,6 @@ nav_order: 2
 ---
 [Home](index.md)
 
-# Module 1: Project Management and Documentation
-
 ## Introduction to GitHub
 GitHub is a cloud-based platform for version control and collaboration. It allows developers to store, manage, and track changes to their code. Key features include:
 - **Repositories**: Storage locations for project files.

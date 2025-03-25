@@ -4,8 +4,6 @@ nav_order: 3
 ---
 [Home](index.md)
 
-# Module 2: Introduction to Embedded C
-
 ## Introduction to Embedded Systems
 Embedded systems are specialized computing devices designed for specific tasks. They typically consist of:
 - **Microcontrollers (MCUs)**: Small computers on a single chip (e.g., ESP32, Raspberry Pi Pico).
