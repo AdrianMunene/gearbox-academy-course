@@ -1,5 +1,5 @@
 ---
-title: Project Management and Documentation
+title: "Embedded Systems, Integrated Development Environments (IDEs), Code Publishing"
 nav_order: 3
 ---
 [Home](index.md)
