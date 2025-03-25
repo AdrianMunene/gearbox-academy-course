@@ -63,6 +63,9 @@ Arrays store multiple values of the same data type in contiguous memory location
 int main() {
     int numbers[] = {10, 20, 30, 40, 50};
 
+	//Accessing the first element in an array
+	printf("%d", numbers[0])
+
     for(int i = 0; i < 5; i++) {
         printf("Element %d: %d\n", i, numbers[i]);
     }
@@ -141,10 +144,11 @@ int main() {
 }
 ```
 
-### **Introduction to Embedded C**
+### Introduction to Embedded C
 Embedded C extends standard C by incorporating additional features for hardware-level programming. It is used to write firmware for microcontrollers and provides direct access to hardware components such as registers, I/O ports, and interrupts.
 
-#### **Differences Between C and Embedded C**
+#### Differences Between C and Embedded C
+
 | Feature      | C Programming               | Embedded C Programming                           |
 | ------------ | --------------------------- | ------------------------------------------------ |
 | Platform     | General-purpose computers   | Microcontrollers & embedded systems              |
