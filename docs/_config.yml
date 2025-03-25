@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 #theme: just-the-docs
-title: ''
-markdown: GFM
+title: 'Gearbox Academy Course'
+#markdown: GFM
 nav_order: 1
 #theme: minima
