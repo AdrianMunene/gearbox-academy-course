@@ -1,6 +1,6 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #theme: just-the-docs
 title: ''
 markdown: GFM
-#nav_order: 1
+nav_order: 1
 #theme: minima
