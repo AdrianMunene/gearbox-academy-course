@@ -7,7 +7,7 @@ nav_order: 3
 ## Introduction to Embedded Systems
 Embedded systems are specialized computing devices designed for specific tasks. They typically consist of:
 - **Microcontrollers (MCUs)**: Small computers on a single chip (e.g., ESP32, Raspberry Pi Pico).
-- **Firmware**: Low-level software controlling hardware behavior.
+- **Firmware**: Low-level software controlling hardware behaviour.
 - **Peripherals**: Sensors, actuators, and communication modules.
 
 ## Introduction to IDEs (Thonny, Arduino, Pico C/C++ SDK)
