@@ -1,5 +1,5 @@
 #theme: jekyll-theme-minimal
-theme: just-the-docs
+#theme: just-the-docs
 title: "Gearbox Academy Course"
 nav_order: 1
 show_repo_link: false
