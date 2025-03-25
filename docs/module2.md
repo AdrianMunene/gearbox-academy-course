@@ -30,10 +30,12 @@ IDEs (Integrated Development Environments) simplify programming for embedded sys
 
 ## Introduction to C and Embedded C
 
-### **Introduction to C**
+### Introduction to C
+C is a general purpose programming language commonly used on computer architectures that range from the largest supercomputers to the smallest microcontrollers and embedded systems.
+
 C is widely used in embedded systems due to its efficiency and hardware-level access. Key concepts:
 
-#### **Pointers**
+#### Pointers
 Pointers store memory addresses instead of actual values, allowing efficient memory management.
 
 ```c
@@ -52,7 +54,7 @@ int main() {
 }
 ```
 
-#### **Arrays**
+#### Arrays
 Arrays store multiple values of the same data type in contiguous memory locations.
 
 ```c
@@ -69,7 +71,7 @@ int main() {
 }
 ```
 
-#### **Recursion**
+#### Recursion
 Recursion is a technique where a function calls itself to solve a problem.
 
 ```c
@@ -87,7 +89,7 @@ int main() {
 }
 ```
 
-#### **C-Style Object-Oriented Programming (OOP) Using Structs and Typedef**
+#### C-Style Object-Oriented Programming (OOP) Using Structs and Typedef
 C does not have built-in OOP support like C++ but can achieve similar principles using **structs** and **typedef**.
 
 Example: **Defining a structure and using it like an object**
@@ -111,7 +113,7 @@ int main() {
 }
 ```
 
-Example: **Using function pointers in a struct (polymorphism-like behavior)**
+Example: **Using function pointers in a struct (polymorphism-like behaviour)**
 ```c
 #include <stdio.h>
 
@@ -143,34 +145,13 @@ int main() {
 Embedded C extends standard C by incorporating additional features for hardware-level programming. It is used to write firmware for microcontrollers and provides direct access to hardware components such as registers, I/O ports, and interrupts.
 
 #### **Differences Between C and Embedded C**
-| Feature         | C Programming         | Embedded C Programming     |
-|----------------|----------------------|----------------------------|
-| Platform       | General-purpose computers | Microcontrollers & embedded systems |
-| Memory Usage   | Uses standard memory models | Optimized for low memory environments |
-| Libraries      | Standard C libraries | Hardware-specific libraries (e.g., GPIO, timers) |
-| Execution      | Runs on OS | Runs on bare-metal hardware |
-| Portability    | Highly portable | Often hardware-specific |
-
-#### **Example of Embedded C: LED Blinking (for an ARM-based microcontroller)**
-```c
-#include <stdint.h>
-
-#define LED_PIN 13
-#define GPIO_PORT *((volatile uint32_t*) 0x40020014)
-
-void delay(int count) {
-    while(count--) {
-        for (volatile int i = 0; i < 1000; i++);
-    }
-}
-
-int main() {
-    while(1) {
-        GPIO_PORT ^= (1 << LED_PIN); // Toggle LED
-        delay(100000);
-    }
-}
-```
+| Feature      | C Programming               | Embedded C Programming                           |
+| ------------ | --------------------------- | ------------------------------------------------ |
+| Platform     | General-purpose computers   | Microcontrollers & embedded systems              |
+| Memory Usage | Uses standard memory models | Optimized for low memory environments            |
+| Libraries    | Standard C libraries        | Hardware-specific libraries (e.g., GPIO, timers) |
+| Execution    | Runs on OS                  | Runs on bare-metal hardware                      |
+| Portability  | Highly portable             | Often hardware-specific                          |
 
 ## Code Publishing - GitHub
 To publish embedded system projects on GitHub:
@@ -181,6 +162,6 @@ To publish embedded system projects on GitHub:
 5. Share the repository link for collaboration.
 
 ## Takeaway
-Understanding embedded systems is crucial for developing efficient, task-specific computing solutions. Microcontrollers like the ESP32 and Raspberry Pi Pico serve as the foundation for embedded applications, while IDEs such as Thonny, Arduino IDE, and the Pico C/C++ SDK streamline the development process.
+Understanding embedded systems is crucial for developing efficient embedded programs. Microcontrollers like the ESP32 and Raspberry Pi Pico serve as the foundation for embedded applications, while IDEs such as Thonny, Arduino IDE, and the Pico C/C++ SDK streamline the development process.
 
 Programming in C provides direct hardware control, making it ideal for resource-constrained environments. Embedded C enhances standard C by integrating low-level hardware control, making it indispensable for embedded systems development. Mastering GitHub for version control ensures proper documentation, collaboration, and project management in embedded development.
