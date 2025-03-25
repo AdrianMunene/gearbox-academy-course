@@ -36,4 +36,4 @@ Understanding Git, GitHub is essential for version control, project management, 
 
 Git allows efficient tracking of code changes, while GitHub enables collaboration among developers. 
 
-GitHub Pages serves as a platform for publishing project documentation or static websites, making it easier to share and maintain projects.
+GitHub Pages serves as a platform for publishing project documentation.
