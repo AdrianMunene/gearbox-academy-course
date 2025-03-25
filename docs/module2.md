@@ -7,7 +7,9 @@ nav_order: 3
 ## Introduction to Embedded Systems
 Embedded systems are specialized computing devices designed for specific tasks. They typically consist of:
     **Microcontrollers (MCUs)**: Small computers on a single chip (e.g., ESP32, Raspberry Pi Pico).
+
     **Firmware**: Low-level software controlling hardware behavior.
+
     **Peripherals**: Sensors, actuators, and communication modules.
 
 ## Introduction to IDEs (Thonny, Arduino, Pico C/C++ SDK)
@@ -31,9 +33,13 @@ IDEs (Integrated Development Environments) simplify programming for embedded sys
 ## Introduction to C and Embedded C
 C is widely used in embedded systems due to its efficiency and hardware-level access. Key concepts:
     **Variables and Data Types**: `int`, `float`, `char`, `bool`
+
     **Control Structures**: `if`, `while`, `for`, `switch`
+
     **Functions**: Code modularization and reuse.
+
     **Pointers**: Direct memory access and manipulation.
+    
     **Registers and GPIO Control**: Direct interaction with microcontroller hardware.
 
 ## Code Publishing - GitHub

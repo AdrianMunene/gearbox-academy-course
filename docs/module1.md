@@ -7,18 +7,27 @@ nav_order: 2
 ## Introduction to GitHub
 GitHub is a cloud-based platform for version control and collaboration. It allows developers to store, manage, and track changes to their code. Key features include:
     **Repositories**: Storage locations for project files.
+
     **Commits**: Snapshots of changes made to files.
+
     **Branches**: Parallel versions of a project that allow for experimentation.
+
     **Pull Requests**: A way to propose and review changes before merging them into the main branch.
 
 ## Introduction to Git
 Git is a distributed version control system that helps track changes in source code. Important Git commands:
     `git init` - Initializes a new Git repository.
+
     `git clone <repo_url>` - Clones an existing repository.
+
     `git add <file>` - Stages changes for commit.
+
     `git commit -m "message"` - Saves staged changes.
+
     `git push` - Uploads local changes to a remote repository.
+
     `git pull` - Fetches and merges changes from a remote repository.
+
     `git status` - Displays the current state of the repository.
 
 ## Introduction to Web Publishing (GitHub Pages)
