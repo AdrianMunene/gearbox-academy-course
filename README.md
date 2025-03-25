@@ -1,1 +1,0 @@
-# gearbox-academy-course
