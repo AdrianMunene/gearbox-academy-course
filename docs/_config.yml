@@ -3,3 +3,4 @@ markdown: GFM
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 search_enabled: true
+favicon_ico: ./images/favicon.ico
