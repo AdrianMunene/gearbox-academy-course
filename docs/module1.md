@@ -33,3 +33,5 @@ GitHub Pages is a free web hosting service for static sites. Steps to set up a G
 Understanding Git and GitHub is essential for version control, project management, and collaboration. Git allows efficient tracking of code changes, while GitHub enables developers to collaborate effectively.
 
 GitHub Pages serves as a platform for publishing project documentation, making it easier to share information in Markdown or HTML/CSS format. 
+
+[Module 2](module2.md)

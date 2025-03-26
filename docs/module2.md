@@ -169,3 +169,5 @@ To publish embedded system projects on GitHub:
 Understanding embedded systems is crucial for developing efficient embedded programs. Microcontrollers like the ESP32 and Raspberry Pi Pico serve as the foundation for embedded applications, while IDEs such as Thonny, Arduino IDE, and the Pico C/C++ SDK streamline the development process.
 
 Programming in C provides direct hardware control, making it ideal for resource-constrained environments. Embedded C enhances standard C by integrating low-level hardware control, making it indispensable for embedded systems development. Mastering GitHub for version control ensures proper documentation, collaboration, and project management in embedded development.
+
+[Module 1](module1.md) --- [Module 3](module3.md)
