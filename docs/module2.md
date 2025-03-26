@@ -170,4 +170,4 @@ Understanding embedded systems is crucial for developing efficient embedded prog
 
 Programming in C provides direct hardware control, making it ideal for resource-constrained environments. Embedded C enhances standard C by integrating low-level hardware control, making it indispensable for embedded systems development. Mastering GitHub for version control ensures proper documentation, collaboration, and project management in embedded development.
 
-< [Module 1](module1.md) - [Module 3](module3.md) >
+[Module 1](module1.md) - [Module 3](module3.md)
