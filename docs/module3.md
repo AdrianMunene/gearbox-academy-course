@@ -4,8 +4,6 @@ nav_order: 4
 ---
 [Home](index.md)
 
-[Home](index.md)
-
 ## Introduction to Electronic Circuits and Components
 Electronic circuits are the foundation of embedded systems and IoT devices. They consist of various components that work together to control electrical signals.
 
