@@ -32,7 +32,7 @@ ESP32 and Raspberry Pi Pico are two widely used microcontrollers with different 
 - Supports multiple interfaces: GPIO, SPI, I2C, UART, ADC, DAC  
 - Low-power operation for IoT applications  
 #### ESP32 Pinout Diagram
-![[Pasted image 20250326083734.png]]  
+![ESP32 Pinout](../images/Pasted%20image%2020250326083734.png)
 
 ### Raspberry Pi Pico Overview
 - RP2040 dual-core ARM Cortex-M0+ processor  
@@ -40,7 +40,7 @@ ESP32 and Raspberry Pi Pico are two widely used microcontrollers with different 
 - 26 multi-function GPIO pins  
 - No built-in Wi-Fi or Bluetooth (requires external modules)  
 #### Raspberry Pi Pico Pinout Diagram
-![[Pasted image 20250326083451.png]]
+![Raspberry Pi Pico Pinout](../images/Pasted%20image%2020250326083451.png)
 
 ### Understanding GPIO (General-Purpose Input/Output)
 GPIOs allow microcontrollers to interact with external components.
