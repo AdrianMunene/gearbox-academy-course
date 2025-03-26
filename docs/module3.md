@@ -58,4 +58,4 @@ The Arduino IDE is a user-friendly environment for writing and uploading code to
 ## Takeaway
 This module introduced the fundamental concepts of electronic circuits, microcontroller hardware (ESP32 & Raspberry Pi Pico), and the basics of programming microcontrollers using the Arduino IDE. Understanding electronic components and GPIO operations is crucial for embedded system development, and mastering the ESP32 allows for advanced IoT applications.
 
-[Module 2](module2.md) --- [Module 4](module4.md)
+[Module 2](module2.md) <---> [Module 4](module4.md)
