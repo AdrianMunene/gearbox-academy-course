@@ -11,3 +11,5 @@ My fourth year project is a Low-Cost Air Quality Monitoring System that implemen
 Gearbox Academy is a hub of innovation where hands-on learning meets real-world problem-solving. Their mission is to equip students with practical technical skills, fostering creativity and critical thinking while emphasizing real-world applications.
 
 The Embedded Systems course at Gearbox Ltd is offered in collaboration with AFRETEC that is sponsoring final-year  students from The University of Nairobi who are undertaking embedded systems-related projects.
+
+[Module 1](module1.md)
