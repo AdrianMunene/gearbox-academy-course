@@ -34,4 +34,4 @@ Understanding Git and GitHub is essential for version control, project managemen
 
 GitHub Pages serves as a platform for publishing project documentation, making it easier to share information in Markdown or HTML/CSS format. 
 
-[Introduction](index.md) <---> [Module 2](module2.md)
+< [Introduction](index.md) - [Module 2](module2.md) >
