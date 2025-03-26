@@ -1,1 +1,8 @@
 .obsidian/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.webp
