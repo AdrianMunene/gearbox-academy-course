@@ -10,7 +10,7 @@ Wired communication protocols are essential for data exchange between microcontr
 
 ---
 
-## 6.1 Communication Protocols in Embedded Systems
+## Communication Protocols in Embedded Systems
 
 Communication protocols define rules for how data is transmitted between devices. In embedded systems, common wired communication protocols include:
 
@@ -31,7 +31,7 @@ Communication protocols define rules for how data is transmitted between devices
 
 ---
 
-## 6.2 Working with Communication Protocols (I²C, UART, SPI)
+## Working with Communication Protocols (I²C, UART, SPI)
 
 ### I²C Example (RP2040):
 ```python
@@ -60,7 +60,7 @@ spi = SPI(0, baudrate=500000, polarity=0, phase=0, sck=Pin(2), mosi=Pin(3), miso
 
 ---
 
-## 6.3 Ultrasonic Sensor with Raspberry Pi Pico
+## Ultrasonic Sensor with Raspberry Pi Pico
 
 Ultrasonic sensors measure distance by using sound waves. The HC-SR04 is a popular module.
 
@@ -93,7 +93,7 @@ while True:
 
 ---
 
-## 6.4 PIR Sensor with Raspberry Pi Pico
+## PIR Sensor with Raspberry Pi Pico
 
 PIR (Passive Infrared) sensors detect motion by sensing infrared radiation changes.
 

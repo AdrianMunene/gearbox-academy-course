@@ -10,7 +10,7 @@ Sensors and actuators form the physical interface between an embedded system and
 
 ---
 
-## 5.1 Understanding Electronic Circuits and Components
+## Understanding Electronic Circuits and Components
 
 ### Key Electronic Components:
 - **LEDs**: Emit light when powered; used for visual indicators.
@@ -23,7 +23,7 @@ A basic LED circuit includes an LED connected in series with a resistor to a GPI
 
 ---
 
-## 5.2 Introduction to Sensors and Actuators
+## Introduction to Sensors and Actuators
 
 ### What is a Sensor?
 A sensor detects physical changes in the environment (e.g., light, temperature, pressure) and outputs corresponding electrical signals.
@@ -40,7 +40,7 @@ An actuator receives an electrical signal and converts it into physical movement
 
 ---
 
-## 5.3 Interfacing External LEDs, Switches, and Pushbuttons with RP2040
+## Interfacing External LEDs, Switches, and Pushbuttons with RP2040
 
 ### Interfacing LEDs:
 ```python

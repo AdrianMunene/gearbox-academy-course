@@ -10,7 +10,7 @@ This module builds upon your understanding of wired communication by introducing
 
 ---
 
-## 7.1 Interfacing to the Pi Pico and ESP32 using SPI
+## Interfacing to the Pi Pico and ESP32 using SPI
 
 ### What is SPI?
 
@@ -73,7 +73,7 @@ oled.show()
 
 ---
 
-## 7.2 Simple Embedded System Project I
+## Simple Embedded System Project I
 
 This capstone activity combines knowledge from prior modules:
 

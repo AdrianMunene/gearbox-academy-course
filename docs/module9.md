@@ -10,7 +10,7 @@ This module introduces wireless communication with the ESP32 microcontroller, fo
 
 ---
 
-## 9.1 ESP32 Connect to Wi-Fi
+## ESP32 Connect to Wi-Fi
 
 The ESP32 can connect to 2.4GHz Wi-Fi networks, enabling internet-based communication and control.
 
@@ -37,7 +37,7 @@ void loop() {
 
 ---
 
-## 9.2 ESP32 Data Upload
+## ESP32 Data Upload
 
 Use platforms like **ThingSpeak** to visualize data online.
 
@@ -62,7 +62,7 @@ void loop() {
 
 ---
 
-## 9.3 ESP32 Remote Control
+## ESP32 Remote Control
 
 Control peripherals (e.g., LEDs) via commands sent through the web or serial input.
 
@@ -86,7 +86,7 @@ void loop() {
 
 ---
 
-## 9.4 ESP32 Web Server
+## ESP32 Web Server
 
 Build a local web server to control or monitor GPIO devices.
 
@@ -118,7 +118,7 @@ void loop() {
 
 ---
 
-## 9.5 Simple Embedded System Project V
+## Simple Embedded System Project V
 
 **Project Idea:** Create a web interface to display sensor readings (e.g., temperature and humidity from a DHT sensor).
 
@@ -127,7 +127,7 @@ void loop() {
 
 ---
 
-## 9.6 Simple Embedded System Project VI
+## Simple Embedded System Project VI
 
 **Project Idea:** Create a web dashboard with control buttons to toggle actuators like LEDs, relays, or buzzers from a browser interface.
 

@@ -11,7 +11,7 @@ This module continues the exploration of wired communication, focusing on the I�
 
 ---
 
-## 8.1 Interfacing the RP2040 and ESP32 using I²C
+## Interfacing the RP2040 and ESP32 using I²C
 
 ### What is I²C?
 
@@ -63,7 +63,7 @@ while True:
 
 ---
 
-## 8.2 Simple Embedded System Project III
+## Simple Embedded System Project III
 
 ### Example Project: Environmental Monitor
 
@@ -76,7 +76,7 @@ This project demonstrates real-time environmental data acquisition using I²C se
 
 ---
 
-## 8.3 Simple Embedded System Project IV
+## Simple Embedded System Project IV
 
 ### Serial Communication in Practice
 
