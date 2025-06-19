@@ -4,9 +4,7 @@ nav_order: 10
 ---
 [Home](index.md)
 
-# Module 9: Wireless Communication Protocols
-
-## Introduction
+## Introduction to Wireless Communication Protocols
 
 This module introduces wireless communication with the ESP32 microcontroller, focusing on Wi-Fi-based applications. You will learn to connect the ESP32 to a network, upload data to the cloud, control peripherals remotely, and develop web-based interfaces.
 

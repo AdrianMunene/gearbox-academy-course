@@ -4,9 +4,7 @@ nav_order: 8
 ---
 [Home](index.md)
 
-# Module 7: Wired Communication Protocols I
-
-## Introduction
+## Wired Communication Protocols I
 
 This module builds upon your understanding of wired communication by introducing practical interfacing between microcontrollers like the Raspberry Pi Pico and ESP32 using the SPI (Serial Peripheral Interface) protocol. You'll also explore a simple embedded project involving OLED displays.
 

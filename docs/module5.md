@@ -4,9 +4,7 @@ nav_order: 6
 ---
 [Home](index.md)
 
-# Module 5: Sensors and Actuators
-
-## Introduction
+## Introduction to Sensors and Actuators
 
 Sensors and actuators form the physical interface between an embedded system and the real world. Sensors collect data from the environment, while actuators perform actions based on that data. Understanding how to interface these components with a microcontroller like the RP2040 is fundamental to embedded systems.
 

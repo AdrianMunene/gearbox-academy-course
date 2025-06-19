@@ -4,9 +4,7 @@ nav_order: 5
 ---
 [Home](index.md)
 
-# Module 4: Introduction to Python and Raspberry Pi Pico
-
-## Introduction
+## Introduction to Python and Raspberry Pi Pico
 
 Python is a beginner-friendly, high-level programming language widely used for scripting, automation, and embedded development. When paired with the Raspberry Pi Pico microcontroller, Python (via MicroPython) becomes a powerful tool for rapid prototyping and learning embedded systems concepts.
 

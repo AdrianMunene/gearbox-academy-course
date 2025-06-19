@@ -4,9 +4,8 @@ nav_order: 9
 ---
 [Home](index.md)
 
-# Module 8: Wired Communication Protocols II
 
-## Introduction
+# Wired Communication Protocols II
 
 This module continues the exploration of wired communication, focusing on the I²C protocol. You'll interface sensors like AHT10 and DHT11 with both the Raspberry Pi Pico and ESP32, and apply your skills in embedded system projects involving serial communication.
 

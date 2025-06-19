@@ -4,9 +4,7 @@ nav_order: 7
 ---
 [Home](index.md)
 
-# Module 6: Introduction to Wired Communication Protocols
-
-## Introduction
+## Introduction to Wired Communication Protocols
 
 Wired communication protocols are essential for data exchange between microcontrollers and peripheral devices such as sensors, displays, and actuators. Understanding these protocols allows developers to build systems that are modular, scalable, and robust.
 
