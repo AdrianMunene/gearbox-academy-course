@@ -1,4 +1,3 @@
-
 ---
 title: Wired Communication Protocols II
 nav_order: 9

@@ -1,4 +1,3 @@
-
 ---
 title: Wired Communication Protocols I
 nav_order: 8

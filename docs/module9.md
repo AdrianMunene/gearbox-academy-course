@@ -1,4 +1,3 @@
-
 ---
 title: Wireless Communication Protocols
 nav_order: 10

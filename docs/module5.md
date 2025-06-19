@@ -1,4 +1,3 @@
-
 ---
 title: Sensors and Actuators
 nav_order: 6

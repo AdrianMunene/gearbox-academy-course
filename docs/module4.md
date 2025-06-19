@@ -1,4 +1,3 @@
-
 ---
 title: Introduction to Python and Raspberry Pi Pico
 nav_order: 5

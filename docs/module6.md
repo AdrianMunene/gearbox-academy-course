@@ -1,4 +1,3 @@
-
 ---
 title: Introduction to Wired Communication Protocols
 nav_order: 7
